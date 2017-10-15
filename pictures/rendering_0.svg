@@ -1,0 +1,52 @@
+<svg width="800" height="296" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="298" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_6">
+   <rect id="rect_1" height="92" width="166" y="38.580046" x="26.190338" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="76.580046" x="63.190338" stroke-width="0" stroke="#000" fill="#000000">Парсинг</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="106.580046" x="76.190338" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">HTML</text>
+  </g>
+  <g id="svg_30">
+   <rect id="rect_2" height="92" width="166" y="164.08004" x="122.690336" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="202.08004" x="159.690336" stroke-width="0" stroke="#000" fill="#000000">Парсинг</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="233.08004" x="182.690336" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">CSS</text>
+  </g>
+  <g id="rect_4">
+   <rect id="svg_11" height="92" width="166" y="164.080037" x="308.190335" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="201.080037" x="327.190335" stroke-width="0" stroke="#000" fill="#000000">Построение</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="233.080037" x="346.190335" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">CSSOM</text>
+  </g>
+  <g id="svg_32">
+   <rect id="rect_3" height="92" width="166" y="38.623421" x="229.582033" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_27" y="76.623421" x="246.582033" stroke-width="0" stroke="#000" fill="#000000">Построение</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_28" y="111.623421" x="284.582033" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">DOM</text>
+  </g>
+  <g stroke="null" id="svg_33">
+   <rect stroke="#000" id="rect_4" height="92" width="166" y="40.080045" x="425.808653" stroke-width="1.5" fill="#fff"/>
+   <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_20" y="78.080045" x="462.808653" stroke-width="0" fill="#000000">LAYOUT</text>
+   <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_21" y="107.080045" x="465.808653" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">(FLOW)</text>
+  </g>
+  <g id="svg_38">
+   <rect id="rect_5" height="92" width="166" y="39.316687" x="610.690336" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_35" y="78.316687" x="657.690336" stroke-width="0" stroke="#000" fill="#000000">PAINT</text>
+   <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_36" y="109.316687" x="614.690336" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">(RENDERING)</text>
+  </g>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_40" y2="84.579643" x2="229" y1="84.579642" x1="192.689865" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_41" y2="85.579636" x2="425" y1="85.579636" x1="395" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_54" y2="84.262864" x2="611.21185" y1="84.262864" x1="592.532095" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_75" y2="212" x2="89.353517" y1="131.123418" x1="89.353517" stroke-width="3.5" stroke="#000000" fill="none"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_76" y2="210.151469" x2="122.346422" y1="210.58004" x1="89.132136" stroke-width="3" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_77" y2="208.365754" x2="307.646958" y1="208.365754" x1="289.218387" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#000000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_78" y2="205.865998" x2="511.190336" y1="205.865998" x1="474.118954" fill-opacity="null" stroke-opacity="null" stroke-width="3.5" stroke="#000000" fill="none"/>
+  <line stroke="#000000" stroke-linecap="null" stroke-linejoin="null" id="svg_124" y2="133" x2="509.864888" y1="207.283109" x1="511.148658" stroke-width="3.5" fill="none"/>
+ </g>
+</svg>
